@@ -1,0 +1,51 @@
+#EXTM3U url-tvg="http://tv.yarnet.ru/iptvGuide.xml.gz" m3uautoload=1 cache=2200 deinterlace=1
+#EXTINF:0 format="hlssmart" tvg-name="Первый канал" tvg-id="Первый_канал" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/sekajaxurobo.png" group-title="Первый мультиплекс",Первый канал
+http://212.232.63.50:5678/smart/Pervyy_kanal/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="Россия_1" tvg-id="Россия_1" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/jicucikuxuxe.png" group-title="Первый мультиплекс",Россия 1
+http://212.232.63.50:5678/smart/Rossiya_1/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="МатчТВ!" tvg-id="МатчТВ" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/tezihijeromi.png" group-title="Первый мультиплекс",МатчТВ!
+http://212.232.63.50:5678/smart/Match_TV/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="НТВ" tvg-id="НТВ" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/rogozuwodaho.png" group-title="Первый мультиплекс",НТВ
+http://212.232.63.50:5678/smart/NTV/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="Пятый_Канал" tvg-id="Пятый_Канал" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/vicefizaketi.png" group-title="Первый мультиплекс",Пятый Канал
+http://212.232.63.50:5678/smart/Pyatyy_Kana/indexl.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="Россия_Культура" tvg-id="Россия_Культура" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/hinodebitiga.png" group-title="Первый мультиплекс",Россия Культура
+http://212.232.63.50:5678/smart/Rossiya_Kultura/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="Россия_24" tvg-id="Россия_24" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/jikidohinoxe.png" group-title="Первый мультиплекс",Россия 24
+http://212.232.63.50:5678/smart/Rossiya_24/index/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="Карусель" tvg-id="Карусель" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/metekowupehe.png" group-title="Первый мультиплекс",Карусель
+http://212.232.63.50:5678/smart/Karusel/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="ОТР" tvg-id="ОТР" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/vadanidabocu.png" group-title="Первый мультиплекс",ОТР
+http://212.232.63.50:5678/smart/OTR/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="ТВЦ" tvg-id="ТВЦ" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/vesapifenido.png" group-title="Первый мультиплекс",ТВЦ
+http://212.232.63.50:5678/smart/TVTS/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="РЕН_ТВ" tvg-id="РЕН_ТВ" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/jewelibifavo.png" group-title="Второй мультиплекс",РЕН ТВ
+http://212.232.63.50:5678/smart/REN_TV/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="СПАС" tvg-id="СПАС" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/sijolodumexe.png" group-title="Второй мультиплекс",СПАС
+http://212.232.63.50:5678/smart/SPAS/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="СТС" tvg-id="СТС" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/ranuxudimuki.png" group-title="Второй мультиплекс",СТС
+http://212.232.63.50:5678/smart/STS/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="Домашний" tvg-id="Домашний" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/vixerahuwoxe.png" group-title="Второй мультиплекс",Домашний
+http://212.232.63.50:5678/smart/Domashniy/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="ТВ-3" tvg-id="ТВ-3" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/vonugunuzuve.png" group-title="Второй мультиплекс",ТВ-3
+http://212.232.63.50:5678/smart/TV-3/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="Пятница" tvg-id="Пятница" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/jokopahakese.png" group-title="Второй мультиплекс",Пятница
+http://212.232.63.50:5678/smart/Pyatnitsa/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="Звезда" tvg-id="Звезда" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/gudaxawacewu.png" group-title="Второй мультиплекс",Звезда
+http://212.232.63.50:5678/smart/Zvezda/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="МИР" tvg-id="МИР" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/moxotemiwuvo.png" group-title="Второй мультиплекс",МИР
+http://212.232.63.50:5678/smart/MIR/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="ТНТ" tvg-id="ТНТ" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/lawubupohiko.png" group-title="Второй мультиплекс",ТНТ
+http://212.232.63.50:5678/smart/TNT/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="Муз-ТВ" tvg-id="Муз-ТВ" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/venabizoxuwi.png" group-title="Второй мультиплекс",Муз-ТВ
+http://212.232.63.50:5678/smart/Muz-TV/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="1_Ярославский" tvg-id="1_Ярославский" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/nehikehunape.png" group-title="Региональные телеканалы",1 Ярославский
+http://212.232.63.51:5678/smart/1-Yaroslavskiy/index.m3u8
+#EXTINF:0 format="hlssmart" tvg-name="Городской_телеканал" tvg-id="3772c43666e7e33961810349fd7be788" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/raluluxesinu.png" group-title="Региональные телеканалы",Городской телеканал
+http://212.232.63.50:5678/smart/Gorodskoy_telekanal/index.m3u8
+#EXTINF:0 format="other" tvg-name="Маяк" tvg-id="Маяк" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/tuxomuhedoci.png" group-title="Радио",Маяк
+http://212.232.63.50:1234/Radio_Mayak/index.m3u8
+#EXTINF:0 format="other" tvg-name="Radio_MAXIMUM" tvg-id="Radio_MAXIMUM" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/hidesixafebi.png" group-title="Радио",Radio MAXIMUM
+http://212.232.63.50:1234/Radio_MAXIMUM/index.m3u8
+#EXTINF:0 format="other" tvg-name="Радио_России" tvg-id="Радио_России" tvg-logo="http://tv.yarnet.ru/resources/images/channels_min/vuvapitafibo.png" group-title="Радио",Радио России
+http://212.232.63.50:1234/Radio_Rossii/index.m3u8
